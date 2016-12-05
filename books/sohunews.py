@@ -10,7 +10,7 @@ def getBook():
 
 
 class sohunews(BaseFeedBook):
-    title               = u'搜狐新闻'
+    title               = u'搜狐新闻new and it'
     description         = u'新闻天天看'
     __author__          = 'aodi2004'
     language            = 'zh-cn'
